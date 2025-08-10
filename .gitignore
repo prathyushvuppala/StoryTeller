@@ -1,0 +1,20 @@
+# Flutter
+**/build/
+**/.dart_tool/
+**/.packages
+**/.flutter-plugins
+
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/.pytest_cache/
+backend/dist/
+backend/build/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Models & large data
+models/
